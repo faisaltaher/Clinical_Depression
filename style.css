@@ -12,14 +12,14 @@ h2{
 }
 p{
 	font-variant: small-caps;
-	2em
+	3em
 }
 li{
 	font-variant: small-caps;
 	font-weight:bold;
-	font-size:1em;
+	font-size:2em;
 }
 div{
-	border: 1 solid gray;
+	border: 1em solid gray;
 	  padding: 8px;
 }
