@@ -22,4 +22,5 @@ li{
 div{
 	border: 1em solid gray;
 	  padding: 8px;
+	font-variant: small-caps;
 }
